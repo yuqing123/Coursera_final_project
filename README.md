@@ -27,8 +27,6 @@ Read all the test and training files respectively, use the function mentioned ab
 
 Combine both train and test files to one ultimate data frame in the form of subject_number, labels, the actual data.
 
-**Step 5:**
-Save the data set in text file called clean_data.txt
 
-**Step 4:**
+**Step 5:**
 Save a separate data file called average_data.txt which contains the average of each variable for each activity and each subject in the previous dataset
