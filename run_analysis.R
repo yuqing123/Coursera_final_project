@@ -49,7 +49,6 @@ test_data <- subset(test_data, select = grep("(mean|std)([^Freq])", names(test_d
 test <- cbind(test_subjects, test_labels, test_data)
 
 data <- rbind(train, test)
-write.table(data, file = "clean_data.txt", row.name=FALSE)
 
 library(dplyr)
 groupData <- data %>%
