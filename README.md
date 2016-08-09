@@ -12,7 +12,9 @@ clean_data.csv -- data output of run_analysis.R
 
 average_data.csv -- Contains the average of each variable for each activity and each subject in the previous dataset
 
+
 run_analysis.R merges the training and the test sets to create one data set. It Extracts only the measurements on the mean and standard deviation for each measurement, and uses descriptive activity names and descriptive labels. 
+
 
 How the run_analysis.R works(step by step)
 
