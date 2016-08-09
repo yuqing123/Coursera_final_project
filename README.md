@@ -1,6 +1,6 @@
 #Getting and Cleaning Data Final Project
 
-Files in this repo:
+** Files in this repo: **
 
 README.md
 
